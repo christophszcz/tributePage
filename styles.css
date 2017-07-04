@@ -3,6 +3,11 @@ body{
   margin: 60px;
 }
 
+.main-title{
+	color: #AF5D16;
+  font-weight: 300;
+}
+
 .caption {
   text-align:center;
 }
