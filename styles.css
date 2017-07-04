@@ -1,6 +1,7 @@
 body{
 	background: linear-gradient(180deg, #E79645, #662000);
-  margin: 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .main-title{
@@ -18,7 +19,8 @@ body{
 
 @media(max-width: 700px){
 	body{
-		margin: 30px;
+		margin-top: 30px;
+		margin-bottom: 30px;
 	}
 	h1{
 		font-size: 30px;
