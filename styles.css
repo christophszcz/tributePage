@@ -12,7 +12,16 @@ body{
 }
 
 @media(max-width: 700px){
+	body{
+		margin: 30px;
+	}
+	h1{
+		font-size: 30px;
+	}
 	li{
 		font-size: 12px;
+	}
+	.wikipedia-text{
+		font-size: 18px;
 	}
 }
