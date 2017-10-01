@@ -1,4 +1,5 @@
-## Tribute Page: Mahatma Gandhi
-Here is a tribute page to a personal hero of mine and the man who disobeyed, Mahatma Gandhi.<br />
+### Tribute Page: Mahatma Gandhi
 
-[https://christophszcz.github.io/tributePage/](https://christophszcz.github.io/tributePage/)
+[See it live](https://christophszcz.github.io/tributePage/)
+
+Here is a tribute page to a personal hero of mine and the man who disobeyed, Mahatma Gandhi.<br />
