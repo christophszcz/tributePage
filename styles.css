@@ -4,7 +4,7 @@ body {
   margin-bottom: 60px;
 }
 
-.main-title{
+.main-title {
 	color: #AF5D16;
   font-weight: 300;
 }
@@ -13,8 +13,17 @@ body {
   text-align:center;
 }
 
-.subtitle{
+.subtitle {
 	text-align: center;
+}
+
+.img-panel {
+	width: 70%;
+}
+
+.img-container {
+	display: flex;
+	justify-content: center;
 }
 
 /* Dev Info */
